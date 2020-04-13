@@ -1,0 +1,3 @@
+<templateSet group="Dart">
+  <template name="shadermask" value=" ShaderMask(&#10;             shaderCallback: (rect) {&#10;               return LinearGradient(&#10;                 begin: Alignment.centerLeft,&#10;                 end: Alignment.centerRight,&#10;                 colors: [Colors.black, Colors.transparent],&#10;               ).createShader(Rect.fromLTRB(0, 0, rect.width, rect.height));&#10;             },&#10;             blendMode: BlendMode.dstIn,&#10;             child: Text(&quot;KJKLJLKJLKJLK&quot;,style: Theme.of(context).textTheme.title,)" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>

@@ -1,0 +1,10 @@
+<templateSet group="AndroidComments">
+  <template name="todo" value="// TODO:Eidtor:$user$ $date$ $todo$ " description="adds // TODO" toReformat="true" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="todo" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

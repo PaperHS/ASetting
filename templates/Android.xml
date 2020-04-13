@@ -1,0 +1,7 @@
+<templateSet group="Android">
+  <template name="header" value="/**&#10; *&#10; *     █████╗ ██████╗  ██████╗██████╗ ██╗      ██████╗  ██████╗██╗  ██╗&#10; *    ██╔══██╗██╔══██╗██╔════╝██╔══██╗██║     ██╔═══██╗██╔════╝██║ ██╔╝&#10; *    ███████║██████╔╝██║     ██████╔╝██║     ██║   ██║██║     █████╔╝&#10; *    ██╔══██║██╔══██╗██║     ██╔══██╗██║     ██║   ██║██║     ██╔═██╗&#10; *    ██║  ██║██║  ██║╚██████╗██████╔╝███████╗╚██████╔╝╚██████╗██║  ██╗&#10; *    ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═════╝ ╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝ &#10; * Author       : ${USER}&#10; * Time         : ${DATE}&#10; * Edited By    :&#10; * Edited Time  :&#10; * Description  : &#10;**/" description="file header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
