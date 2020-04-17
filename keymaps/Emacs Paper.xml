@@ -4,8 +4,11 @@
   </action>
   <action id="ActivateLogcatToolWindow">
     <keyboard-shortcut first-keystroke="alt l" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
-  <action id="ActivateProjectToolWindow" />
+  <action id="ActivateProjectToolWindow">
+    <keyboard-shortcut first-keystroke="meta 1" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
