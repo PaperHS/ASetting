@@ -1,4 +1,8 @@
 <keymap version="1" name="Emacs Paper" parent="Emacs">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="escape" second-keystroke="w" />
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="$LRU">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
   </action>
@@ -11,6 +15,9 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
   </action>
@@ -20,6 +27,7 @@
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="g" />
   </action>
+  <action id="EditorKillRingSave" />
   <action id="EditorStartNewLineBefore" />
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="shift ctrl f" />
