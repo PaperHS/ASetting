@@ -10,4 +10,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="qry" value="@Query(&quot;$id$&quot;) $id$: $type$" toReformat="false" toShortenFQNames="true">
+    <variable name="id" expression="" defaultValue="id" alwaysStopAt="true" />
+    <variable name="type" expression="" defaultValue="String" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
