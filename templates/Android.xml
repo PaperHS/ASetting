@@ -12,4 +12,11 @@
       <option name="KOTLIN" value="true" />
     </context>
   </template>
+  <template name="jnc" value="$field$ == null ?&quot;&quot;:$filed$" description="java null check" toReformat="false" toShortenFQNames="true">
+    <variable name="field" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="filed" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
