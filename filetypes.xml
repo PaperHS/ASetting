@@ -5,6 +5,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="sq" type="SQL" />
     </extensionMap>
   </component>
 </application>
