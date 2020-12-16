@@ -6,6 +6,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="sq" type="SQL" />
+      <mapping pattern="now_media_dialog_progress.xml" type="XML" />
       <mapping pattern="now_media_seek_progress" type="XML" />
     </extensionMap>
   </component>
