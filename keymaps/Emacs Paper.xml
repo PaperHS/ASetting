@@ -12,6 +12,10 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
