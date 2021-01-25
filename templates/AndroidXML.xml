@@ -9,4 +9,9 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="srl" value="    &lt;com.allnow.global.app.module.support.widget.allnowrefresh.AllNowRefreshLayout&#10;        android:id=&quot;@+id/srl&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;        app:srlEnableRefresh=&quot;false&quot;&#10;        app:srlEnableAutoLoadMore=&quot;true&quot;&#10;        android:background=&quot;@color/now_divider&quot;&#10;        &gt;&#10;        &lt;androidx.recyclerview.widget.RecyclerView&#10;            android:id=&quot;@+id/rv&quot;&#10;            android:layout_width=&quot;match_parent&quot;&#10;            android:layout_height=&quot;match_parent&quot;&#10;            android:overScrollMode=&quot;never&quot;&#10;            /&gt;&#10;&#10;    &lt;/com.allnow.global.app.module.support.widget.allnowrefresh.AllNowRefreshLayout&gt;&#10;" description="smart pull to refresh" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
 </templateSet>
