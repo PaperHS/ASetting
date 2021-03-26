@@ -8,8 +8,10 @@
       <mapping ext="sq" type="SQL" />
       <mapping pattern="now_bg_hot_rank_heat_value" type="XML" />
       <mapping pattern="now_shape_hot_rank_media_type_bg.xml" type="XML" />
+      <mapping pattern="now_bg_vote_comment_bg_01.xml" type="XML" />
       <mapping pattern="now_media_dialog_progress.xml" type="XML" />
       <mapping pattern="now_media_seek_progress" type="XML" />
+      <mapping pattern="now_bg_vote_comment_bg_01" type="XML" />
       <mapping pattern="now_bg_hot_rank_heat_value.xml" type="XML" />
     </extensionMap>
   </component>
