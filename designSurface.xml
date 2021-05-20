@@ -6,6 +6,8 @@
         <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.33043922369765066" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_card_wallet.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_badge.xml" value="0.33697916666666666" />
+        <entry key="AppCommonRes/src/main/res/layout/public_item_vc_cert.xml" value="0.33697916666666666" />
+        <entry key="AppCommonRes/src/main/res/layout/public_item_vc_normal.xml" value="0.33697916666666666" />
         <entry key="AppCommonSDK/src/main/res/layout/sdk_arc_error_detail_layout.xml" value="0.33697916666666666" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.2962962962962963" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_activity_tx_detail.xml" value="0.33043922369765066" />
