@@ -16,7 +16,10 @@
         <entry key="ModuleTransaction/src/main/res/layout/tx_activity_tx_detail.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_custom_view_of_tx_item.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_fragment_tx_history.xml" value="0.33043922369765066" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_assets_in_tx_detail.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_auth_flow.xml" value="0.33697916666666666" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_detail.xml" value="0.33043922369765066" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_txs_hisory_commom.xml" value="0.33043922369765066" />
         <entry key="app/src/main/res/layout/activity_auth.xml" value="0.375" />
         <entry key="app/src/main/res/layout/item_detail_info.xml" value="0.33697916666666666" />
