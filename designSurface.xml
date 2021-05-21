@@ -5,7 +5,7 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/publick_baseline_arrow_drop_up_24.xml" value="0.375" />
-        <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.33043922369765066" />
+        <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_card_wallet.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_unknown.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_badge.xml" value="0.33697916666666666" />
@@ -29,7 +29,7 @@
         <entry key="app/src/main/res/layout/item_request_info.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/ly_svc_info.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1" />
-        <entry key="app/src/main/res/layout/page_consume_profile.xml" value="0.32410611303344866" />
+        <entry key="app/src/main/res/layout/page_consume_profile.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/page_consume_signature.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/page_consume_token.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/page_did_consume.xml" value="0.33697916666666666" />
