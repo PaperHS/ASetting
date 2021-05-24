@@ -3,10 +3,16 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_left_24.xml" value="0.29259259259259257" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_left_24_black.xml" value="0.29259259259259257" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24.xml" value="0.29259259259259257" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24_balck.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn_outline.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_transparent_10dp.xml" value="0.29259259259259257" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_left.xml" value="0.29259259259259257" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_right.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/publick_baseline_arrow_drop_up_24.xml" value="0.375" />
         <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_card_wallet.xml" value="0.33697916666666666" />
@@ -25,7 +31,7 @@
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_detail.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_txs_hisory_commom.xml" value="0.33043922369765066" />
-        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_detail_info.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/item_meta_docs.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/item_of_vc_detail_info.xml" value="0.45" />
