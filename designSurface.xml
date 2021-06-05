@@ -10,6 +10,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn_outline.xml" value="0.35625" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_divider_gray_1dp_with_margin.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_transparent_10dp.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_left.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_right.xml" value="0.29259259259259257" />
@@ -50,7 +51,7 @@
         <entry key="app/src/main/res/layout/page_consume_token.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/page_conusme_agreement.xml" value="0.2814814814814815" />
         <entry key="app/src/main/res/layout/page_conusme_no_request.xml" value="0.3328125" />
-        <entry key="app/src/main/res/layout/page_did_consume.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/page_did_consume.xml" value="0.5" />
         <entry key="app/src/main/res/layout/stub_error_view_auth.xml" value="0.3138888888888889" />
       </map>
     </option>
