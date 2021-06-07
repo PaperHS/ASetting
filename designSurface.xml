@@ -30,7 +30,7 @@
         <entry key="ModuleTransaction/src/main/res/drawable/bg_auth_sign_icon.xml" value="0.2962962962962963" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.35625" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_tx_list_item_bg.xml" value="0.35208333333333336" />
-        <entry key="ModuleTransaction/src/main/res/layout/tx_activity_tx_detail.xml" value="0.13834163238796277" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_activity_tx_detail.xml" value="0.2712962962962963" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_custom_view_of_tx_item.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_fragment_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_assets_in_tx_detail.xml" value="0.33043922369765066" />
