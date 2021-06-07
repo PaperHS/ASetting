@@ -12,6 +12,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn_outline.xml" value="0.35625" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_gray_1dp_with_margin.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_transparent_10dp.xml" value="0.29259259259259257" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_selector_round_corner_12dp_item.xml" value="0.3194444444444444" />
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_left.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_right.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/publick_baseline_arrow_drop_up_24.xml" value="0.375" />
@@ -25,8 +26,8 @@
         <entry key="AppCommonSDK/src/main/res/layout/sdk_arc_error_detail_layout.xml" value="0.33697916666666666" />
         <entry key="ModuleTransaction/src/main/res/drawable/bg_auth_sign_icon.xml" value="0.2962962962962963" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.35625" />
-        <entry key="ModuleTransaction/src/main/res/drawable/tx_tx_list_item_bg.xml" value="0.3416666666666667" />
-        <entry key="ModuleTransaction/src/main/res/layout/tx_activity_tx_detail.xml" value="0.33697916666666666" />
+        <entry key="ModuleTransaction/src/main/res/drawable/tx_tx_list_item_bg.xml" value="0.35208333333333336" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_activity_tx_detail.xml" value="0.13834163238796277" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_custom_view_of_tx_item.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_fragment_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_assets_in_tx_detail.xml" value="0.33043922369765066" />
@@ -35,6 +36,7 @@
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_txs_hisory_commom.xml" value="0.33043922369765066" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_dapp_detail.xml" value="0.275" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notification_detail.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notifications.xml" value="0.3328125" />
         <entry key="app/src/main/res/drawable/bg_auth_flow_indicator.xml" value="0.3388888888888889" />
         <entry key="app/src/main/res/drawable/circle_auth_error.xml" value="0.287962962962963" />
