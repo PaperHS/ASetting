@@ -19,6 +19,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_left.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_right.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/publick_baseline_arrow_drop_up_24.xml" value="0.375" />
+        <entry key="AppCommonRes/src/main/res/layout/public_common_list_empty.xml" value="0.3328125" />
         <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_card_wallet.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_no_cert.xml" value="0.33697916666666666" />
@@ -26,6 +27,7 @@
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_badge.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_cert.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_normal.xml" value="0.33697916666666666" />
+        <entry key="AppCommonRes/src/main/res/layout/public_profile_empty.xml" value="0.3328125" />
         <entry key="AppCommonSDK/src/main/res/layout/sdk_arc_error_detail_layout.xml" value="0.33697916666666666" />
         <entry key="ModuleTransaction/src/main/res/drawable/bg_auth_sign_icon.xml" value="0.2962962962962963" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.35625" />
