@@ -31,6 +31,7 @@
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_normal.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_profile_empty.xml" value="0.3328125" />
         <entry key="AppCommonSDK/src/main/res/layout/sdk_arc_error_detail_layout.xml" value="0.33697916666666666" />
+        <entry key="ModuleProfile/src/main/res/layout/pf_profile_add_header.xml" value="0.17708333333333334" />
         <entry key="ModuleTransaction/src/main/res/drawable/bg_auth_sign_icon.xml" value="0.2962962962962963" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_send_item_icon_bg.xml" value="0.19635416666666666" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.35625" />
