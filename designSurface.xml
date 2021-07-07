@@ -54,7 +54,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_recover_desc.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_welcome.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_contacts.xml" value="0.3328125" />
-        <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_notifications.xml" value="1.5" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_notifications.xml" value="0.625" />
         <entry key="app/src/main/res/drawable/bg_auth_flow_indicator.xml" value="0.3388888888888889" />
         <entry key="app/src/main/res/drawable/circle_auth_error.xml" value="0.287962962962963" />
         <entry key="app/src/main/res/drawable/circle_auth_transfer.xml" value="0.165625" />
