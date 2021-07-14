@@ -9,6 +9,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24_balck.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_bg_round_corner_12dp_gray.xml" value="0.1527777777777778" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn_outline.xml" value="0.35625" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg.xml" value="0.1640625" />
@@ -55,6 +56,8 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notifications.xml" value="0.17407407407407408" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_recover_desc.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_welcome.xml" value="0.3328125" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_list.xml" value="0.22037037037037038" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_tab.xml" value="0.22037037037037038" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_contacts.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_notifications.xml" value="0.625" />
         <entry key="app/src/main/res/drawable/bg_auth_flow_indicator.xml" value="0.3388888888888889" />
