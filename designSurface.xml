@@ -49,6 +49,7 @@
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_detail.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_txs_hisory_commom.xml" value="0.33043922369765066" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_speed_up_dialog.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/drawable/wallet_blue_circle_bg.xml" value="0.23333333333333334" />
         <entry key="ModuleWallet/src/main/res/drawable/wallet_notification_unread.xml" value="0.23333333333333334" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_account_detail.xml" value="0.2101851851851852" />
