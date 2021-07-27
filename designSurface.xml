@@ -76,7 +76,7 @@
         <entry key="app/src/main/res/drawable/circle_auth_error.xml" value="0.287962962962963" />
         <entry key="app/src/main/res/drawable/circle_auth_transfer.xml" value="0.165625" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.3328125" />
-        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.375" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.27870370370370373" />
         <entry key="app/src/main/res/layout/activity_mipush.xml" value="0.3328125" />
         <entry key="app/src/main/res/layout/activity_notification_detail.xml" value="0.3328125" />
