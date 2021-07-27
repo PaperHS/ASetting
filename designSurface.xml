@@ -26,7 +26,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/publick_baseline_arrow_drop_up_24.xml" value="0.375" />
         <entry key="AppCommonRes/src/main/res/layout/public_app_logo_view.xml" value="0.27314814814814814" />
         <entry key="AppCommonRes/src/main/res/layout/public_common_list_empty.xml" value="0.3328125" />
-        <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.33697916666666666" />
+        <entry key="AppCommonRes/src/main/res/layout/public_info_detail_basic_info.xml" value="0.4861111111111111" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_card_wallet.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_no_cert.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_unknown.xml" value="0.33697916666666666" />
