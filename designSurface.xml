@@ -35,10 +35,10 @@
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_badge.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_cert.xml" value="0.33697916666666666" />
         <entry key="AppCommonRes/src/main/res/layout/public_item_vc_normal.xml" value="0.33697916666666666" />
-        <entry key="AppCommonRes/src/main/res/layout/public_profile_add.xml" value="0.31614583333333335" />
+        <entry key="AppCommonRes/src/main/res/layout/public_profile_add.xml" value="0.4861111111111111" />
         <entry key="AppCommonRes/src/main/res/layout/public_profile_empty.xml" value="0.3328125" />
         <entry key="AppCommonSDK/src/main/res/layout/sdk_arc_error_detail_layout.xml" value="0.33697916666666666" />
-        <entry key="ModuleProfile/src/main/res/layout/pf_profile_add_header.xml" value="0.17708333333333334" />
+        <entry key="ModuleProfile/src/main/res/layout/pf_profile_add_header.xml" value="0.4861111111111111" />
         <entry key="ModuleTransaction/src/main/res/drawable/bg_auth_sign_icon.xml" value="0.2962962962962963" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_send_item_icon_bg.xml" value="0.19635416666666666" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.35625" />
@@ -79,7 +79,7 @@
         <entry key="app/src/main/res/drawable/circle_auth_error.xml" value="0.287962962962963" />
         <entry key="app/src/main/res/drawable/circle_auth_transfer.xml" value="0.165625" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.3328125" />
-        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.4405144694533762" />
+        <entry key="app/src/main/res/layout/activity_auth.xml" value="0.4861111111111111" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.27870370370370373" />
         <entry key="app/src/main/res/layout/activity_mipush.xml" value="0.3328125" />
         <entry key="app/src/main/res/layout/activity_notification_detail.xml" value="0.3328125" />
