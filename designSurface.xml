@@ -48,7 +48,7 @@
         <entry key="ModuleTransaction/src/main/res/layout/tx_fragment_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_fragment_tx_tab.xml" value="0.24583333333333332" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_assets_in_tx_detail.xml" value="0.33043922369765066" />
-        <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_auth_flow.xml" value="0.2324074074074074" />
+        <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_auth_flow.xml" value="0.5" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_detail.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_of_tokens_in_tx_history.xml" value="0.33043922369765066" />
         <entry key="ModuleTransaction/src/main/res/layout/tx_item_txs_hisory_commom.xml" value="0.33043922369765066" />
