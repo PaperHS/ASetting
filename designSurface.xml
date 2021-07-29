@@ -63,6 +63,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notification_detail.xml" value="0.2712962962962963" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notifications.xml" value="0.27870370370370373" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_recover_desc.xml" value="0.3328125" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_send_token.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_welcome.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_custom_view_of_dapp_list_item.xml" value="0.27870370370370373" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_list.xml" value="0.22037037037037038" />
