@@ -107,6 +107,8 @@
         <entry key="app/src/main/res/layout/item_of_vc_detail_info.xml" value="0.25" />
         <entry key="app/src/main/res/layout/item_receiver_tokens.xml" value="0.42390194075587334" />
         <entry key="app/src/main/res/layout/item_request_info.xml" value="0.33697916666666666" />
+        <entry key="app/src/main/res/layout/item_shopping_cart.xml" value="0.39427083333333335" />
+        <entry key="app/src/main/res/layout/item_shopping_cart_pay_token.xml" value="0.39427083333333335" />
         <entry key="app/src/main/res/layout/item_ticket_detail_with_copy.xml" value="0.2453125" />
         <entry key="app/src/main/res/layout/ly_svc_info.xml" value="0.33697916666666666" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1" />
