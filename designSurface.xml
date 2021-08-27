@@ -28,6 +28,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_left.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_selector_step_indicator_right.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_vc_card_bg.xml" value="0.33541666666666664" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_vd_fast_right_black_24dp.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_white_card_bg_16dp.xml" value="0.33541666666666664" />
         <entry key="AppCommonRes/src/main/res/drawable/publick_baseline_arrow_drop_up_24.xml" value="0.375" />
         <entry key="AppCommonRes/src/main/res/layout/public_app_logo_view.xml" value="0.27314814814814814" />
@@ -91,6 +92,7 @@
         <entry key="app/src/main/res/drawable/circle_auth_error.xml" value="0.287962962962963" />
         <entry key="app/src/main/res/drawable/circle_auth_transfer.xml" value="0.165625" />
         <entry key="app/src/main/res/drawable/circle_profile_add.xml" value="0.5" />
+        <entry key="app/src/main/res/drawable/vd_fast_right_black_24dp.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_about.xml" value="0.3328125" />
         <entry key="app/src/main/res/layout/activity_auth.xml" value="0.5" />
         <entry key="app/src/main/res/layout/activity_backup.xml" value="0.5" />
