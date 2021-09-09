@@ -74,6 +74,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notification_detail.xml" value="0.2712962962962963" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notifications.xml" value="0.27870370370370373" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_recover_desc.xml" value="0.3328125" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_roll_up_to_arc.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_send_token.xml" value="0.335" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_w_c_sign_message.xml" value="0.3734375" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_welcome.xml" value="0.3328125" />
@@ -90,6 +91,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_notifications.xml" value="0.625" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_receive_bottom_address_select.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_page_create_rollup.xml" value="0.3328125" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_page_rollup_state.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_receive_bottom_select_address_menus.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_set_gas_fee_dialog.xml" value="0.3328125" />
         <entry key="app/src/main/res/drawable/auth_gradient_default.xml" value="0.5" />
