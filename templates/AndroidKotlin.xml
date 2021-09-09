@@ -3,4 +3,10 @@
     <variable name="blockName" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="dao" value="@Dao&#10;interface $Entity$Dao {&#10;  @Insert(onConflict = OnConflictStrategy.REPLACE)&#10;  fun insert$Entity$()&#10;  @Query(&quot;update $Entity$ set stage = :stage where id = :id&quot;)&#10;  fun update$Entity$(id: String, stage: Int)&#10;  @Query(&quot;select * from $Entity$&quot;)&#10;  fun list$Entity$(): Flowable&lt;List&lt;$Entity$&gt;&gt;&#10;  @Query(&quot;delete * from $Entity$ where id = :id&quot;)&#10;  fun delete$Entity$(id: String)&#10;}" description="generate a dao" toReformat="false" toShortenFQNames="true">
+    <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
 </templateSet>
