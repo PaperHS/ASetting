@@ -87,11 +87,13 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_share_account_address.xml" value="0.49074074074074076" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_gas_speed.xml" value="0.375" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_account_list.xml" value="0.3619791666666667" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_accounts_in_dapp_detail.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_bottom_account.xml" value="1.0" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_contacts.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_dapp_list.xml" value="0.27870370370370373" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_notifications.xml" value="0.625" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_receive_bottom_address_select.xml" value="0.5" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_rollup.xml" value="0.2712962962962963" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_page_create_rollup.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_page_rollup_state.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_receive_bottom_select_address_menus.xml" value="0.5" />

@@ -16,9 +16,9 @@
     <mask>*.dart</mask>
     <mask>*.java</mask>
     <mask>*.gradle</mask>
-    <mask>*.xml</mask>
     <mask>*.proto</mask>
     <mask>*.graphql</mask>
+    <mask>*.xml</mask>
     <mask>*.kt</mask>
   </component>
 </application>
