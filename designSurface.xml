@@ -95,6 +95,8 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_list.xml" value="0.22037037037037038" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_tab.xml" value="0.3527777777777778" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_share_account_address.xml" value="0.49074074074074076" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_incluce_rollup_track.xml" value="0.3328125" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_include_rollup_track.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_gas_speed.xml" value="0.375" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_account_list.xml" value="0.3619791666666667" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_item_of_accounts_in_dapp_detail.xml" value="0.3328125" />
