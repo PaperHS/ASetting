@@ -15,6 +15,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_pink.xml" value="0.30277777777777776" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_profile_add.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_ripple.xml" value="0.5" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_circle_tx_stauts_bg.xml" value="0.30277777777777776" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn_outline.xml" value="0.35625" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg.xml" value="0.1640625" />
@@ -50,6 +51,8 @@
         <entry key="AppCommonSDK/src/main/res/layout/sdk_arc_error_detail_layout.xml" value="0.33697916666666666" />
         <entry key="ModuleProfile/src/main/res/layout/pf_profile_add_header.xml" value="0.4861111111111111" />
         <entry key="ModuleTransaction/src/main/res/drawable/bg_auth_sign_icon.xml" value="0.2962962962962963" />
+        <entry key="ModuleTransaction/src/main/res/drawable/tx_item_fail_status_bg.xml" value="0.35208333333333336" />
+        <entry key="ModuleTransaction/src/main/res/drawable/tx_item_success_status_bg.xml" value="0.30277777777777776" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_send_item_icon_bg.xml" value="0.19635416666666666" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_transfer_item_icon_bg.xml" value="0.35625" />
         <entry key="ModuleTransaction/src/main/res/drawable/tx_tx_list_item_bg.xml" value="0.35208333333333336" />
@@ -88,6 +91,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_confirm_rollup_token_dialog.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_confirm_send_token_dialog.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_custom_view_of_dapp_list_item.xml" value="0.27870370370370373" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_eth_item_txs_hisory_unconfirm.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_list.xml" value="0.22037037037037038" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_dapp_tab.xml" value="0.3527777777777778" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_fragment_share_account_address.xml" value="0.49074074074074076" />
