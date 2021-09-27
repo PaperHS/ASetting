@@ -3,6 +3,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="../../.gradle/caches/transforms-2/files-2.1/1bd2f619059b5a92b591e341f7371fbc/jetified-BigImageViewPager-v4_5.0.5/res/drawable/gray_circle_bg.xml" value="0.35208333333333336" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/26d88a785e757dc312a62ab190929a3b/jetified-BigImageViewPager-v4_5.0.5/res/drawable/gray_circle_bg.xml" value="0.5" />
         <entry key="../../.gradle/caches/transforms-2/files-2.1/bbb604dc4b84d3ee0a5eafcb374ca6e9/jetified-imagepicker/res/drawable/ic_default_image.xml" value="0.1640625" />
         <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_left_24.xml" value="0.3388888888888889" />
@@ -11,6 +12,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24_balck.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_round_corner_12dp_gray.xml" value="0.1527777777777778" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_circle_pink.xml" value="0.30277777777777776" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_profile_add.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_ripple.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn.xml" value="0.29259259259259257" />
@@ -65,6 +67,7 @@
         <entry key="ModuleWallet/src/main/res/drawable/wallet_blue_circle_bg.xml" value="0.23333333333333334" />
         <entry key="ModuleWallet/src/main/res/drawable/wallet_ic_baseline_more_horiz_24.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/drawable/wallet_notification_unread.xml" value="0.23333333333333334" />
+        <entry key="ModuleWallet/src/main/res/drawable/wallet_rollup.xml" value="0.35208333333333336" />
         <entry key="ModuleWallet/src/main/res/layout/activity_roll_up_to_arc.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_account_detail.xml" value="0.25462962962962965" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_asset_detail.xml" value="0.49074074074074076" />
