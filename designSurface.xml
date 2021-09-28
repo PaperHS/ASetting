@@ -13,6 +13,8 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24_balck.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_round_corner_12dp_gray.xml" value="0.1527777777777778" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_blue_btn_bg.xml" value="0.23385416666666667" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_btn_bg.xml" value="0.23385416666666667" />
         <entry key="AppCommonRes/src/main/res/drawable/public_checkbox_uncheck.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_light_blue.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_pink.xml" value="0.30277777777777776" />
@@ -21,6 +23,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_tx_stauts_bg.xml" value="0.30277777777777776" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn.xml" value="0.29259259259259257" />
         <entry key="AppCommonRes/src/main/res/drawable/public_create_btn_outline.xml" value="0.35625" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_dark_blue_btn.xml" value="0.23385416666666667" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg.xml" value="0.1640625" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg_small.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_token_logo_bg.xml" value="0.3" />
