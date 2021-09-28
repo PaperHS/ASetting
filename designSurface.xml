@@ -13,6 +13,8 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_baseline_keyboard_arrow_right_24_balck.xml" value="0.3388888888888889" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_ring_gray.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_bg_round_corner_12dp_gray.xml" value="0.1527777777777778" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_checkbox_uncheck.xml" value="0.2962962962962963" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_circle_light_blue.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_pink.xml" value="0.30277777777777776" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_profile_add.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_circle_ripple.xml" value="0.5" />
@@ -23,6 +25,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg_small.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_token_logo_bg.xml" value="0.3" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_dash.xml" value="0.5" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_divider_dash_verticel.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_empty_0dp.xml" value="0.3194444444444444" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_gray_1dp_with_margin.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_transparent_10dp.xml" value="0.29259259259259257" />
@@ -81,13 +84,13 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_check_fingerprint.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_contact_detail.xml" value="0.19166666666666668" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_dapp_detail.xml" value="0.5075885328836425" />
-        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_deposit_tracking.xml" value="0.3328125" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_deposit_tracking.xml" value="0.24814814814814815" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_enter_password.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_loading.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notification_detail.xml" value="0.2712962962962963" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notifications.xml" value="0.27870370370370373" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_recover_desc.xml" value="0.3328125" />
-        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_roll_up_to_arc.xml" value="0.3263534218590398" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_roll_up_to_arc.xml" value="0.25" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_roll_up_tracking.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_rollup_history.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_send_token.xml" value="0.335" />
