@@ -24,7 +24,7 @@
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg.xml" value="0.1640625" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_app_logo_bg_small.xml" value="0.5" />
         <entry key="AppCommonRes/src/main/res/drawable/public_default_token_logo_bg.xml" value="0.3" />
-        <entry key="AppCommonRes/src/main/res/drawable/public_divider_dash.xml" value="0.5" />
+        <entry key="AppCommonRes/src/main/res/drawable/public_divider_dash.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_dash_verticel.xml" value="0.2962962962962963" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_empty_0dp.xml" value="0.3194444444444444" />
         <entry key="AppCommonRes/src/main/res/drawable/public_divider_gray_1dp_with_margin.xml" value="0.5" />
@@ -84,7 +84,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_check_fingerprint.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_contact_detail.xml" value="0.19166666666666668" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_dapp_detail.xml" value="0.5075885328836425" />
-        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_deposit_tracking.xml" value="0.3263534218590398" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_deposit_tracking.xml" value="0.25" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_enter_password.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_loading.xml" value="0.5" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notification_detail.xml" value="0.2712962962962963" />
