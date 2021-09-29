@@ -82,6 +82,7 @@
         <entry key="ModuleWallet/src/main/res/drawable/wallet_notification_unread.xml" value="0.23333333333333334" />
         <entry key="ModuleWallet/src/main/res/drawable/wallet_rollup.xml" value="0.35208333333333336" />
         <entry key="ModuleWallet/src/main/res/drawable/wallet_rollup_history.xml" value="0.2962962962962963" />
+        <entry key="ModuleWallet/src/main/res/drawable/wallet_rollup_loading.xml" value="0.23385416666666667" />
         <entry key="ModuleWallet/src/main/res/layout/activity_roll_up_to_arc.xml" value="0.3328125" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_account_detail.xml" value="0.25462962962962965" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_asset_detail.xml" value="0.49074074074074076" />
@@ -90,7 +91,7 @@
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_dapp_detail.xml" value="0.5075885328836425" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_deposit_tracking.xml" value="0.3263534218590398" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_enter_password.xml" value="0.3328125" />
-        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_loading.xml" value="0.5" />
+        <entry key="ModuleWallet/src/main/res/layout/wallet_activity_loading.xml" value="0.42916666666666664" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notification_detail.xml" value="0.2712962962962963" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_notifications.xml" value="0.27870370370370373" />
         <entry key="ModuleWallet/src/main/res/layout/wallet_activity_recover_desc.xml" value="0.3328125" />
