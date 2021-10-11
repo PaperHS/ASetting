@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -8,11 +8,13 @@
       <mapping ext="sq" type="SQL" />
       <mapping pattern="now_bg_vote_comment_bg_01.xml" type="XML" />
       <mapping pattern="now_media_seek_progress" type="XML" />
-      <mapping pattern="now_media_dialog_progress.xml" type="XML" />
       <mapping pattern="now_bg_hot_rank_heat_value" type="XML" />
+      <mapping pattern="now_media_dialog_progress.xml" type="XML" />
       <mapping pattern="now_bg_vote_comment_bg_01" type="XML" />
       <mapping pattern="now_bg_hot_rank_heat_value.xml" type="XML" />
       <mapping pattern="now_shape_hot_rank_media_type_bg.xml" type="XML" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
