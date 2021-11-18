@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="tvstep" value="app:autoSizeMinTextSize=&quot;22sp&quot;&#10;app:autoSizeMaxTextSize=&quot;12sp&quot;&#10;app:autoSizeTextType=&quot;uniform&quot;&#10;app:autoSizeStepGranularity=&quot;1sp&quot;" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+      <option name="XML_ATTRIBUTE" value="true" />
+    </context>
+  </template>
+</templateSet>
