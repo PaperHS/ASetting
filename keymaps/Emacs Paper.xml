@@ -66,6 +66,9 @@
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="ctrl n" />
   </action>
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl p" />
   </action>
